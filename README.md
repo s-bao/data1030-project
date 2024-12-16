@@ -1,4 +1,4 @@
-# data1030-project
+# DATA 1030 Project: Classifying Dementia Using the Open Access Series of Imaging Studies (OASIS) Longitudinal Dataset
 Sarah Bao's Final Project for DATA 1030 (Fall 2024)
 
 Problem Statement: In this project, I aim to classify individuals as either "Demented" or "Nondemented" using demographic, cognitive, and MRI data. This involves building an ML classification task that can predict whether a subject has dementia based on features such as age, cognitive test scores (e.g. MMSE, CDR), and brain volume measurements (e.g. eTIV, nWBV). This classification task is crucial because early detection of dementia is vital for timely intervention and management, potentially improving patients' quality of life. A definitive diagnosis of Alzheimer's disease can only be made after an autopsy of the brain, so, typically, doctors make clinical diagnoses based off a comprehensive assessment of the patient's condition, considering many of the factors described in this dataset. Therefore, by leveraging predictive models, we can assist clinicians in identifying high-risk individuals and support decision-making in diagnosing Alzheimer's disease.
