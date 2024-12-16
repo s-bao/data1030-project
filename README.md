@@ -12,7 +12,7 @@ Run `conda env create -f requirements.yml` then `conda activate final_env` from 
   - matplotlib=3.9.2
   - pandas=2.2.2
   - scikit-learn=1.5.1
-  - numpy=1.26.4
+  - numpy=1.26.4                                                                            
   - shap=0.46.0
   - jupyter_client=8.6.2
   - jupyter_core=5.7.2
